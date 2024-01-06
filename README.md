@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about WordPress
 - 📫 How to reach me: abdullahaamir977@gmail.com
-<!-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen -->
+- 😄 My Fiverr Account: https://www.fiverr.com/abdullahaamir97
+- ⚡ Fun fact: I'm lazy enough to find swift solutions to any complex problem
   
 ### Connect with me:
 <div id="badges">
