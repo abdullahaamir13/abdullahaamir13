@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Abdullah Aamir</h1>
 
-- 🔭 I’m currently working on C++ and WordPress
+- 🔭 I’m currently working on C++, HTML, CSS, JS, PHP and WordPress
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about WordPress
 - 📫 How to reach me: abdullahaamir977@gmail.com
@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,github,wordpress,elementor,perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,github,wordpress,html,css,js,php,perline=5)](https://skillicons.dev)
 
 ![Abdullah Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahaamir13&show_icons=true&theme=dark)
 
