@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,wordpress,html,css,js,php,perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,wordpress,html,css,js,jquery,php,mysql,mongodb,latex,anaconda,arch,docker,git,oracle&perline=8)](https://skillicons.dev)
 
 ![Abdullah Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahaamir13&show_icons=true&theme=dark)
 
