@@ -15,12 +15,17 @@
  <!-- <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>-->
+    <a href="https://www.linkedin.com/in/abdullah-aamir/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
    <a href="https://www.instagram.com/abdullah__aamir">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/abdullahamir200341">
+
+<!--    <a href="https://fb.com/abdullahamir200341">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  </a> -->
    <a href="https://twitter.com/abdullah_aamir_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
