@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Abdullah Aamir</h1>
 
-- 🔭 I’m currently working on C++, HTML, CSS, JS, PHP and WordPress
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on C, C++, Python, HTML, CSS, JS, and PHP
+- 🌱 I’m currently learning Data Science & AI
 - 💬 Ask me anything about WordPress
 - 📫 How to reach me: abdullahaamir977@gmail.com
 - 😄 My Fiverr Account: https://www.fiverr.com/abdullahaamir97
